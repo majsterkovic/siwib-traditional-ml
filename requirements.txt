@@ -4,3 +4,5 @@ pandas
 matplotlib
 seaborn
 xlrd
+
+imbalanced-learn==0.13.0
